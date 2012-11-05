@@ -1,0 +1,26 @@
+// Tokyo
+Proj4js.defs["EPSG:3092"]= "+title=Tokyo / UTM zone 51N / EPSG:3092 +proj=utm +zone=51 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:3093"]= "+title=Tokyo / UTM zone 52N / EPSG:3093 +proj=utm +zone=52 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:3094"]= "+title=Tokyo / UTM zone 53N / EPSG:3094 +proj=utm +zone=53 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:3095"]= "+title=Tokyo / UTM zone 54N / EPSG:3095 +proj=utm +zone=54 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:3096"]= "+title=Tokyo / UTM zone 55N / EPSG:3096 +proj=utm +zone=55 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:4301"]= "+title=Tokyo / EPSG:4301 +proj=longlat +ellps=bessel +towgs84=-146.336,506.832,680.254,0,0,0,0 +no_defs";
+Proj4js.defs["EPSG:30161"]= "+title=Tokyo / Japan Plane Rectangular CS I / EPSG:30161 +proj=tmerc +lat_0=33 +lon_0=129.5 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30162"]= "+title=Tokyo / Japan Plane Rectangular CS II / EPSG:30162 +proj=tmerc +lat_0=33 +lon_0=131 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30163"]= "+title=Tokyo / Japan Plane Rectangular CS III / EPSG:30163 +proj=tmerc +lat_0=36 +lon_0=132.1666666666667 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30164"]= "+title=Tokyo / Japan Plane Rectangular CS IV / EPSG:30164 +proj=tmerc +lat_0=33 +lon_0=133.5 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30165"]= "+title=Tokyo / Japan Plane Rectangular CS V / EPSG:30165 +proj=tmerc +lat_0=36 +lon_0=134.3333333333333 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30166"]= "+title=Tokyo / Japan Plane Rectangular CS VI / EPSG:30166 +proj=tmerc +lat_0=36 +lon_0=136 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30167"]= "+title=Tokyo / Japan Plane Rectangular CS VII / EPSG:30167 +proj=tmerc +lat_0=36 +lon_0=137.1666666666667 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30168"]= "+title=Tokyo / Japan Plane Rectangular CS VIII / EPSG:30168 +proj=tmerc +lat_0=36 +lon_0=138.5 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30169"]= "+title=Tokyo / Japan Plane Rectangular CS IX / EPSG:30169 +proj=tmerc +lat_0=36 +lon_0=139.8333333333333 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30170"]= "+title=Tokyo / Japan Plane Rectangular CS X / EPSG:30170 +proj=tmerc +lat_0=40 +lon_0=140.8333333333333 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30171"]= "+title=Tokyo / Japan Plane Rectangular CS XI / EPSG:30171 +proj=tmerc +lat_0=44 +lon_0=140.25 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30172"]= "+title=Tokyo / Japan Plane Rectangular CS XII / EPSG:30172 +proj=tmerc +lat_0=44 +lon_0=142.25 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30173"]= "+title=Tokyo / Japan Plane Rectangular CS XIII / EPSG:30173 +proj=tmerc +lat_0=44 +lon_0=144.25 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30174"]= "+title=Tokyo / Japan Plane Rectangular CS XIV / EPSG:30174 +proj=tmerc +lat_0=26 +lon_0=142 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30175"]= "+title=Tokyo / Japan Plane Rectangular CS XV / EPSG:30175 +proj=tmerc +lat_0=26 +lon_0=127.5 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30176"]= "+title=Tokyo / Japan Plane Rectangular CS XVI / EPSG:30176 +proj=tmerc +lat_0=26 +lon_0=124 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30177"]= "+title=Tokyo / Japan Plane Rectangular CS XVII / EPSG:30177 +proj=tmerc +lat_0=26 +lon_0=131 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30178"]= "+title=Tokyo / Japan Plane Rectangular CS XVIII / EPSG:30178 +proj=tmerc +lat_0=20 +lon_0=136 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";
+Proj4js.defs["EPSG:30179"]= "+title=Tokyo / Japan Plane Rectangular CS XIX / EPSG:30179 +proj=tmerc +lat_0=26 +lon_0=154 +k=0.999900 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs";

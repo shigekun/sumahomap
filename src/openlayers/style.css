@@ -1,0 +1,10 @@
+.scrollBaseLayersDiv {
+	height: 200px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+.scrollDataLayersDiv {
+	height: 200px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
