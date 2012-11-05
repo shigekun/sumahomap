@@ -215,7 +215,7 @@ var init = function () {
 			jQuery.ajax({
 				type : "GET",
 				dataType : "json",
-				url : "./getelevation.php?lng="+last_lonlat.lon+"&lat="+last_lonlat.lat,
+				url : "http://www2.chuogeomatics.jp/demo/webapp/getelevation.php?lng="+last_lonlat.lon+"&lat="+last_lonlat.lat,
 				data : {},
 				success : function(data, textStatus, XMLHttpRequest) {
 					//console.dir(data.result);
