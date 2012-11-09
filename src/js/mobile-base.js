@@ -1,7 +1,6 @@
 // API key for http://openlayers.org. Please get your own at
 // http://bingmapsportal.com/ and use that instead.
 var BingApiKey = "AidaT_YkS7MBWtFjranDbqav15ydZ-UVQoRw8b1TFpbkVy-8817h21KvOubelesx";	// yasue
-//var BingApiKey = "AoQAij0qg7OzQ6FjGZCd3_T0XsSmIPS4CcLHeqtnbRV5zSJF34u6exnuqfqS0rWM";	// ＜利用ユーザ＞５０＜利用期間＞2012年6月1日～１年間
 
 // initialize map when page ready
 var map;
